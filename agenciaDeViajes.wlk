@@ -1,8 +1,8 @@
 class Pack {
-    var duracion
-    var precioBase
+    const duracion
+    const precioBase
     const beneficiosEspeciales =[]
-    var coordinador
+    const coordinador
     
 
 }
